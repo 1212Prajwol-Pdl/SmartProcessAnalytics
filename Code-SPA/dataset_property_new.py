@@ -25,7 +25,7 @@ import statsmodels.api as sm
 import scipy.stats as stats
 import nonlinear_regression as nr
 from sklearn.feature_selection import f_regression
-from sklearn.linear_model.ridge import Ridge
+from sklearn.linear_model import Ridge
 
 import matplotlib.style
 import matplotlib as mpl
